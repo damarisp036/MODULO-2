@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+  
+h1 { font-size: 59pt;
+  font-weight: 700; }
+
+
+body{ font-family: 'poppins', bold; 
+color: #0a2ff1;}
+
+img { width: 300pt;
+  background-image: url(../images/fondo.JPG);
+height: none;
+padding: 20pt  ;
+margin-left: 1pt;
+}
+
+div{ width: 100%;}
+
+span{ background-color: #3ffff3;}
+
+p{ font-family: 'poppins medium';
+  font-weight: 500;
+font-size:  23pt;}
